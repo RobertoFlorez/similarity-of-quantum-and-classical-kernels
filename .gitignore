@@ -1,0 +1,10 @@
+*.h5
+*.npy
+*.pyc
+.venv/
+.vscode/
+/data/plots/*/*.png
+/data/complete_plots_not_cleaned/*
+/data/results/*.pkl
+*.feather
+*.csv
